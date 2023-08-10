@@ -70,7 +70,11 @@ Usage
     View Posts:
         Select the "View Posts" option to see the latest posts from all users.
 -------------------------------------------------------------------------------
+<img width="594" alt="Screenshot 1402-05-19 at 22 07 06" src="https://github.com/1381saber/social-media-Instagram-/assets/87490751/4796d885-d9c4-4a5c-a54e-b38a63730f20">
+<img width="594" alt="Screenshot 1402-05-19 at 22 07 19" src="https://github.com/1381saber/social-media-Instagram-/assets/87490751/b35cd696-c3b7-4990-b15a-270f9c730b24">
+<img width="594" alt="Screenshot 1402-05-19 at 22 07 35" src="https://github.com/1381saber/social-media-Instagram-/assets/87490751/8721e4dd-8078-4e72-a1eb-fbff703c9eef">
 
 
 
-        
+
+
